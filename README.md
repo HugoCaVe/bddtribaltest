@@ -17,6 +17,7 @@ Eclipse IDE or IntelliJ IDEA (version 2020.2.4 or higher).
 Gradle version 6.3 or higher (set of environment variables).
 Cucumber plugin for Java (updated version).
 Gherkin plugin (updated version).
+Chrome Versión 97.0.4692.71
 
 ## Installation 🔧
 
@@ -46,6 +47,11 @@ Gherkin - business-readable DSL language (specific business-readable language)
 ## Versioning 📌
 
 Git was used for version control, applying TBD 🔀
+
+## Additional information. 👨
+
+The repository contains the file "TEST_CASES_UI_UI_UI_MANUAL_API_MANUAL" in which the elements "1-UI Manual testing" and "API Manual
+testing" that are part of the challenge
 
 ## Authors 👨
 
