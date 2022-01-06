@@ -48,7 +48,7 @@ Gherkin - business-readable DSL language (specific business-readable language)
 
 Git was used for version control, applying TBD 🔀
 
-## Additional information. 👨
+## Additional information. 📋
 
 The repository contains the file "TEST_CASES_UI_UI_UI_MANUAL_API_MANUAL" in which the elements "1-UI Manual testing" and "API Manual
 testing" that are part of the challenge
