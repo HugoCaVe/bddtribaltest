@@ -6,7 +6,7 @@
      Dado que se ingresó a la página de ofertas de trabajo actuales de Tribal Credit
      Y que se valida que se cargue la información de la página
 
-   Escenario: busqueda especifica en tribal por departamento y oficina
+   Escenario: busqueda especifica de vacantes disponibles por departamento y oficina
       Cuando selecciono Engineering en el campo Department
       Y en el campo Office selecciono Mexico
       Entonces se muestra por pantalla la posición Senior QA Engineer
