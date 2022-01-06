@@ -1,5 +1,5 @@
 # bddtribaltest
-Appgate Automation Challenge
+Tribal Automation Challenge
 
 ## Introduction 🚀
 
